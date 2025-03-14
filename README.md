@@ -27,3 +27,5 @@ The default resolutions are also set, but they can be modified and expanded too!
 
 - [shc](https://github.com/neurobin/shc) (to compile the bash script)
 
+- [zenity](https://gitlab.gnome.org/GNOME/zenity)
+
