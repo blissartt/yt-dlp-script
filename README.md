@@ -1,3 +1,7 @@
+# **WARNING**
+## **This repo is archived, this project has moved to Codeberg**
+
+
 ## This is a GUI script for yt-dlp.
 This script uses the FLOSS program yt-dlp to download videos.
 This script uses Zenity to display GUI popups, so the only dependency other than basic GNU utilities is Zenity itself.
